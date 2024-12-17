@@ -1,0 +1,8 @@
+{
+  "azure_storage_account_name": "",
+  "azure_storage_account_key": "",
+  "azure_blob_container_name": "",
+  "azure_table_name": "",
+  "azure_queue_name": "",
+  "azure_file_share_name": ""
+}
